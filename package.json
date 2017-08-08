@@ -1,0 +1,22 @@
+{
+  "name": "reactmailserver",
+  "version": "1.0.0",
+  "description": "A server for Reactmail",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristobalwee/reactmail-server.git"
+  },
+  "author": "Cristobal Grana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cristobalwee/reactmail-server/issues"
+  },
+  "homepage": "https://github.com/cristobalwee/reactmail-server#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
